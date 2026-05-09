@@ -61,7 +61,7 @@ export function CtaSection() {
                 </p>
 
                 <a
-                  href="https://cal.com/launchcraft/intro"
+                  href="https://cal.com/mushraf-parwej-kw55pq/inro-call"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
