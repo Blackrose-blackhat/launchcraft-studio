@@ -113,8 +113,8 @@ export function FooterSection() {
             {/* Brand Column */}
             <div className="col-span-2">
               <a href="#" className="inline-flex items-center gap-2 mb-6">
-                <span className="text-2xl font-display text-white">LaunchCraft</span>
-                <span className="text-xs text-white/40 font-mono">studio</span>
+                <span className="text-2xl font-display text-white">Ktisis Labs</span>
+                <span className="text-xs text-white/40 font-mono"></span>
               </a>
 
               <p className="text-white/50 leading-relaxed mb-8 max-w-xs text-sm">
@@ -165,7 +165,7 @@ export function FooterSection() {
         {/* Bottom Bar */}
         <div className="py-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-white/30">
-            &copy; 2025 LaunchCraft. All rights reserved.
+            &copy; 2025 Ktisis Labs. All rights reserved.
           </p>
 
           <div className="flex items-center gap-4 text-sm text-white/30">
