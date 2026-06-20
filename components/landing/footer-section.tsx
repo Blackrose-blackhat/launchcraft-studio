@@ -1,6 +1,7 @@
 "use client";
 
 import { ArrowUpRight } from "lucide-react";
+import { RampLabLogo } from "@/components/logo";
 import { useEffect, useRef } from "react";
 
 const footerLinks = {
@@ -112,9 +113,8 @@ export function FooterSection() {
           <div className="grid grid-cols-2 md:grid-cols-6 gap-12 lg:gap-8">
             {/* Brand Column */}
             <div className="col-span-2">
-              <a href="#" className="inline-flex items-center gap-2 mb-6">
-                <span className="text-2xl font-display text-white">Ktisis Labs</span>
-                <span className="text-xs text-white/40 font-mono"></span>
+              <a href="#" className="inline-flex items-center mb-6">
+                <RampLabLogo variant="light" size="md" />
               </a>
 
               <p className="text-white/50 leading-relaxed mb-8 max-w-xs text-sm">
@@ -165,7 +165,7 @@ export function FooterSection() {
         {/* Bottom Bar */}
         <div className="py-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-white/30">
-            &copy; 2025 Ktisis Labs. All rights reserved.
+            &copy; 2025 RampLab. All rights reserved.
           </p>
 
           <div className="flex items-center gap-4 text-sm text-white/30">

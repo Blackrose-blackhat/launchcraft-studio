@@ -5,7 +5,7 @@ import { ArrowLeft, ArrowRight } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "I had a rough idea and zero technical skills. Ktisis Labs turned it into a product with paying users in just 7 weeks.",
+    quote: "I had a rough idea and zero technical skills. RampLab turned it into a product with paying users in just 7 weeks.",
     author: "Sarah Mitchell",
     role: "Founder",
     company: "PetLoop",
@@ -26,7 +26,7 @@ const testimonials = [
     metric: { value: "5,000", label: "Users in first month" },
   },
   {
-    quote: "Other agencies wanted 6 months and a huge budget. Ktisis Labs shipped our MVP in 6 weeks and it actually looked great.",
+    quote: "Other agencies wanted 6 months and a huge budget. RampLab shipped our MVP in 6 weeks and it actually looked great.",
     author: "Tom Andersen",
     role: "Co-founder",
     company: "FreightPal",
