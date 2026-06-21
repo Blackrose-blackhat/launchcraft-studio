@@ -31,6 +31,42 @@ const projects = [
     stack: ["React", "TypeScript", "REST API"],
     link: null,
   },
+  {
+    index: "04",
+    category: "Mobile Application",
+    title: "LYK — Social Discovery Platform",
+    description:
+      "Cross-platform social networking application with real-time interactions and user engagement features.",
+    stack: ["React Native", "TypeScript", "PostgreSQL"],
+    link: null,
+  },
+  {
+    index: "05",
+    category: "EdTech Platform",
+    title: "ProIQ Academy LMS",
+    description:
+      "Learning management system for course delivery, student progress tracking, and administration.",
+    stack: ["React", "TypeScript", "NestJS", "PostgreSQL"],
+    link: null,
+  },
+  {
+    index: "06",
+    category: "Legal Intelligence Platform",
+    title: "Legal Intelligence & Audit Analytics",
+    description:
+      "Data-driven legal intelligence platform that analyzes audit data to identify compliance gaps, detect anomalies, and uncover potential fraud risks.",
+    stack: ["React", "TypeScript", "Python", "Data Science", "Machine Learning", "NestJS", "PostgreSQL"],
+    link: null,
+  },
+  {
+    index: "07",
+    category: "Healthcare Management System",
+    title: "Doctor Practice Management Platform",
+    description:
+      "Patient management solution featuring appointments, medical records, and prescription workflows.",
+    stack: ["Flutter", "Dart", "NestJS", "PostgreSQL"],
+    link: null,
+  },
 ];
 
 export function WorkSection() {
